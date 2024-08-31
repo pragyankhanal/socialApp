@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">final_socialApp</string>
+    <string name="sign_up" />
+    <string name="login" />
+</resources>
